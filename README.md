@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaatharsh" alt="balaatharsh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/balaatharsh" target="blank"><img src="https://img.shields.io/twitter/follow/balaatharsh?logo=twitter&style=for-the-badge" alt="balaatharsh" /></a> </p>
+
 
 - 🌱 I’m currently learning **Web development**
 
